@@ -18,6 +18,5 @@
 [![Sports](https://img.shields.io/badge/-Sports-000?&logo=AMP&logoColor=005AF0)]()   [![Jeux Vidéos](https://img.shields.io/badge/-JeuxVidéos-000?&logo=Unity&logoColor=FFFFFF)]()   [![Lecture](https://img.shields.io/badge/-Lecture-000?&logo=LBRY&logoColor=005AF0)]()
 
 **Mon projet professionnel**:
-* [![Sécurité](https://img.shields.io/badge/-Cybersécurité-000?&logo=SecurityScorecard&logoColor=7033FD)]() Soit continuer une formation dans la cybersécurité puis travailler à mon compte
 * [![Freelance](https://img.shields.io/badge/-Freelance-000?&logo=Freelancer&logoColor=29B2FE)]() Soit commencer à développer en freelance
 * [![Entreprise](https://img.shields.io/badge/-Entreprise-000?&logo=cashapp&logoColor=00C244)]() Soit prendre de l'expérience dans une entreprise
