@@ -13,6 +13,11 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://www.w3schools.com/Js)  [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.w3schools.com/php/default.asp)
 
+ # Framework : 
+ [![Bootstrap](https://simpleicons.org/icons/bootstrap.svg)]
+ [![Angular](https://simpleicons.org/icons/angular.svg)]
+ [![Symfony](https://simpleicons.org/icons/symfony.svg)]
+
 **Mes loisirs** : 
 
 [![Sports](https://img.shields.io/badge/-Sports-000?&logo=AMP&logoColor=005AF0)]()   [![Jeux Vidéos](https://img.shields.io/badge/-JeuxVidéos-000?&logo=Unity&logoColor=FFFFFF)]()   [![Lecture](https://img.shields.io/badge/-Lecture-000?&logo=LBRY&logoColor=005AF0)]()
