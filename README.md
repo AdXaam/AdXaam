@@ -14,9 +14,9 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://www.w3schools.com/Js)  [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.w3schools.com/php/default.asp)
 
  # Framework : 
- [![Bootstrap](https://simpleicons.org/icons/bootstrap.svg)]
- [![Angular](https://simpleicons.org/icons/angular.svg)]
- [![Symfony](https://simpleicons.org/icons/symfony.svg)]
+ [![Bootstrap](https://simpleicons.org/icons/bootstrap.svg)](https://getbootstrap.com/)
+ [![Angular](https://simpleicons.org/icons/angular.svg)](https://angular.io/)
+ [![Symfony](https://simpleicons.org/icons/symfony.svg)](https://symfony.com/)
 
 **Mes loisirs** : 
 
